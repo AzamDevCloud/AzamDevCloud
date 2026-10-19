@@ -1,24 +1,27 @@
+<div align="center">
+
 # 👋 Hi, I'm Azam
 
-### 💻 Developer • UI/UX Enthusiast • Tech Explorer
+### 💻 Student Developer • Web Developer • UI/UX Enthusiast
 
-I'm a student developer who enjoys building websites, applications, and exploring new technologies.
+I love building websites, applications, and exploring new technologies.
 
-I mainly work with **JavaScript, TypeScript, React, Next.js, Flutter, and backend development**.
+Currently learning **Next.js, Express.js, Flutter, and TypeScript**.
 
-> *"Keep learning. Keep building. Keep improving."*
+[![Instagram](https://img.shields.io/badge/Instagram-porto__azam-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/porto_azam)
+[![GitHub](https://img.shields.io/badge/GitHub-AzamDevCloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AzamDevCloud)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Student Developer
-- 💻 Focused on Web & App Development
-- 🎨 Interested in UI/UX Design
-- 🌱 Currently learning **Next.js, Express.js & Flutter**
-- 🛠️ Building projects and improving my coding skills
+- 💻 Web & App Development
+- 🎨 UI/UX Design
+- 🌱 Currently learning modern web technologies
 - 🎮 Gaming enthusiast
-- 📍 Indonesia
 
 ---
 
