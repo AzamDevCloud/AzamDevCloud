@@ -10,6 +10,6 @@ MY SKILL
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khoirulazam05102010-gif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](AzamDevCloud)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
